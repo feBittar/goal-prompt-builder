@@ -10,7 +10,7 @@ Serve para código e para o resto: um calendário de posts, um relatório, uma p
 Cole isto no Claude Code:
 
 ```
-Instala a skill goal-prompt-builder do repositório https://github.com/feBittar/goal-prompt-builder na minha pasta de skills pessoais (~/.claude/skills/goal-prompt-builder). Use git clone; sem git, baixe https://github.com/feBittar/goal-prompt-builder/archive/refs/heads/main.zip e extraia lá. Depois leia o SKILL.md, me explique em três linhas o que ela faz e me pergunte se quero adaptar algo ao meu jeito de trabalhar.
+Instala a skill goal-prompt-builder do repositório https://github.com/feBittar/goal-prompt-builder na minha pasta de skills pessoais (~/.claude/skills/goal-prompt-builder). Use git clone; sem git, baixe https://github.com/feBittar/goal-prompt-builder/archive/refs/heads/main.zip e extraia de modo que o SKILL.md fique direto nessa pasta. Depois leia o SKILL.md, me explique em três linhas o que ela faz e me pergunte se quero adaptar algo ao meu jeito de trabalhar.
 ```
 
 Se a skill não aparecer em seguida, digite `/reload-skills` ou abra uma sessão nova.
